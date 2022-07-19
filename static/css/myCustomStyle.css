@@ -1,0 +1,9 @@
+.change-cursor {
+  cursor: pointer !important;
+}
+
+.my-custom-timeline .list-timeline-time {
+    top: 0.6rem !important;
+    left: -4rem !important;
+    width: 10rem !important;
+}
